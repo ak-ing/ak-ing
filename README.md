@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+你应该知道,我这么帅的只会出现在动漫.
 ```
 
 <!--END_SECTION:waka-->
