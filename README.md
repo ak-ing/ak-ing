@@ -1,9 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm AK</h1>
-
 
 <img src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" width = "250" height = "250" alt=""/>
+
+
+<h1 align="center">Hi 👋, I'm AK</h1>
 
 
 <details open> 
@@ -22,10 +23,18 @@
     <a href="https://github.com/lengyingmofeng/mo-fish/tree/main"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lengyingmofeng&repo=mo-fish&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="mo-fish"></a>
 
 
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 
-## 今年汇总 ✨
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ak-ing&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-ing&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+## GitHub统计数据 ✨
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ak-ing&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-ing&hide_border=true&layout=compact&theme=dracula&locale=cn" />
 
 
 ### 当前页面访问计数
