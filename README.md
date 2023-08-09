@@ -3,7 +3,13 @@
 
 <img src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" width = "250" height = "250" alt=""/>
 
+<!--START_SECTION:waka-->
 
+```text
+你应该知道,我这么帅的只会出现在动漫.
+```
+
+<!--END_SECTION:waka-->
 <h1 align="center">Hi 👋, I'm AK</h1>
 
 
@@ -25,13 +31,7 @@
   </details> 
 </details> 
 
-<!--START_SECTION:waka-->
 
-```text
-你应该知道,我这么帅的只会出现在动漫.
-```
-
-<!--END_SECTION:waka-->
 
 
 ## GitHub统计数据 ✨
