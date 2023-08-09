@@ -1,16 +1,9 @@
 
-
+- You can call me AK
+- I've been busy recently
+- 💬If you're interested me, You can here
 
 <img src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" width = "250" height = "250" alt=""/>
-
-<!--START_SECTION:waka-->
-
-```text
-你应该知道,我这么帅的只会出现在动漫.
-```
-
-<!--END_SECTION:waka-->
-<h1 align="center">Hi 👋, I'm AK</h1>
 
 
 <details open> 
