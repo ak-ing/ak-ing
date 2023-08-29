@@ -19,7 +19,7 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/lengyingmofeng/blue_sea"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lengyingmofeng&repo=blue_sea&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="mo-fish"></a>
+    <a href="https://github.com/lengyingmofeng/Howhy/tree/android"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lengyingmofeng&repo=Howhy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Howhy"></a>
   </p>
   </details> 
 </details> 
