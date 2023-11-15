@@ -1,9 +1,14 @@
+<img align="right" alt="当前页面访问计数" width="50%" src="https://count.getloli.com/get/@ak-ing">
 
-- You can call me AK
-- I've been busy recently
-- 💬If you're interested me, You can here
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+- 😄 `Nick` : AK
+- 🎯 `Juejin` : https://juejin.cn/user/659362706101735
 
-<img src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" width = "250" height = "250" alt=""/>
+## GitHub统计数据 ✨
+<div>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ak-ing&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-ing&hide_border=true&layout=compact&theme=dracula&locale=cn" />
+</div>
 
 
 <details open> 
@@ -25,15 +30,3 @@
 </details> 
 
 
-
-
-## GitHub统计数据 ✨
-<div>
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ak-ing&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-ing&hide_border=true&layout=compact&theme=dracula&locale=cn" />
-</div>
-
-
-### 当前页面访问计数
-
-![adlered](https://count.getloli.com/get/@ak-ing)
