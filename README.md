@@ -17,8 +17,8 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <div>
-    <a href="https://github.com/ak-ing/SkinPlugin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=SkinPlugin&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SkinPlugin"></a>
-    <a href="https://github.com/ak-ing/Android-Startup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=Android-Startup&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Android-Startup"></a>
+    <a href="https://github.com/ak-ing/SkinPlugin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=SkinPlugin&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="SkinPlugin"></a>
+    <a href="https://github.com/ak-ing/Android-Startup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=Android-Startup&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Android-Startup"></a>
 </div>
 </details> 
 
