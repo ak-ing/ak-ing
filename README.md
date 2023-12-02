@@ -19,6 +19,8 @@
   <p align="left">
     <a href="https://github.com/ak-ing/SkinPlugin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=SkinPlugin&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SkinPlugin"></a>
 </p>
+</details> 
+
 <details open> 
   <summary><h2>📕 我贡献过的热门项目</h2></summary>
 
@@ -26,7 +28,6 @@
   <p align="left">
     <a href="https://github.com/lengyingmofeng/Howhy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lengyingmofeng&repo=Howhy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Howhy"></a>
   </p>
-  </details> 
 </details> 
 
 
