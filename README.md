@@ -2,7 +2,7 @@
 
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 - 😄 `Nick` : AK
-- 🎯 `Juejin` : https://juejin.cn/user/3167065004323262
+- 🎯 `Juejin` : https://juejin.cn/user/3167065004323262/posts
 
 ## GitHub统计数据 ✨
 <div>
