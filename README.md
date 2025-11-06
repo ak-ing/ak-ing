@@ -17,20 +17,19 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <div>
-    <a href="https://github.com/ak-ing/FeatureKit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=FeatureKit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FeatureKit"></a>
     <a href="https://github.com/ak-ing/SkinPlugin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=SkinPlugin&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="SkinPlugin"></a>
     <a href="https://github.com/ak-ing/Android-Startup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=Android-Startup&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Android-Startup"></a>
 </div>
 </details> 
 
-<details open> 
+<!-- <details open> 
   <summary><h2>📕 我贡献过的热门项目</h2></summary>
 
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+
   <div align="left">
     <a href="https://github.com/MaverickOrganization/Tiktok"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ak-ing&repo=Tiktok&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Tiktok"></a>
     <a href="https://github.com/lengyingmofeng/Howhy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lengyingmofeng&repo=Howhy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Howhy"></a>
   </div>
-</details> 
+</details>  -->
 
 
